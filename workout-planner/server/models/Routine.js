@@ -32,6 +32,7 @@ const routineSchema = new mongoose.Schema ( {
 export default mongoose.model("Routine", routineSchema);
 
 
+
 // Models (ChatGPT)
 // Models: Define the structure of your data.
 

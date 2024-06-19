@@ -43,6 +43,7 @@ export default mongoose.model("User", userSchema);
 
 
 
+
 // CARA TULIS SQL
 
 // 1. one-to-many relationship     -     Array of ObjectId

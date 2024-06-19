@@ -34,6 +34,7 @@ export default mongoose.model ( "Entry", entrySchema );
 // Models (ChatGPT)
 // Models: Define the structure of your data.
 
+
 // Why start with Models?
 
 // Models define the schema and structure of your data.
